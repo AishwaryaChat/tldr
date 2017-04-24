@@ -1,0 +1,24 @@
+{
+  "name": "tldr",
+  "version": "1.0.0",
+  "description": "A read it later web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AishwaryaChat/tldr.git"
+  },
+  "keywords": [
+    "Read",
+    "it",
+    "later"
+  ],
+  "author": "Aishwarya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AishwaryaChat/tldr/issues"
+  },
+  "homepage": "https://github.com/AishwaryaChat/tldr#readme"
+}
